@@ -571,6 +571,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameManager
       objectReference: {fileID: 0}
+    - target: {fileID: 6818427344624372693, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_text
+      value: Lure of the Unknown Blockmesh Level Project
+      objectReference: {fileID: 0}
     - target: {fileID: 9147457390299288725, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: m_text
